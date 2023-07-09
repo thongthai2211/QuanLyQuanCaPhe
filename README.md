@@ -1,5 +1,6 @@
 # QuanLyQuanCaPhe
-
+- Mở file sql và chạy trên sql server
+- 
 
 # Các chức năng trong phần mềm
 
