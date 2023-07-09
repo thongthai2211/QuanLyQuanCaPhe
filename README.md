@@ -1,7 +1,7 @@
 # QuanLyQuanCaPhe
 - Mở file sql và chạy trên sql server
-- 
-
+- Mở (DAO/DBConnect.java  ,  GUI/QuanLyOrder.java) để thay đổi user và password của sql server trên máy đang chạy phần mềm
+- Run phần mềm
 # Các chức năng trong phần mềm
 
 Đăng Nhập
